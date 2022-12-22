@@ -1,0 +1,57 @@
+
+{
+    "version": "4.7.0.v202212010827",
+    "created": "2022-12-22 11:33",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.ext.poi3.node.io.filehandling.excel.sheets.ExcelSheetReaderNodeFactory#Read Excel Sheet Names",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 260,
+                "nrcreated": 1,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.ext.poi3.node.io.filehandling.excel.reader.ExcelTableReaderNodeFactory#Excel Reader",
+                "nrexecs": 13,
+                "nrfails": 0,
+                "exectime": 495,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.filehandling.utility.nodes.listpaths.ListFilesAndFoldersNodeFactory#List Files/Folders",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 8,
+                "nrcreated": 1,
+                "successor": "org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory#Table Row to Variable"
+            },
+            {
+                "id": "org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory#Table Row to Variable",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 9,
+                "nrcreated": 1,
+                "successor": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        }
+    },
+    "uptime": 41656837,
+    "workflowsOpened": 2,
+    "remoteWorkflowsOpened": 1,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 0,
+    "launches": 1,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 41656837,
+    "crashes": 0,
+    "properlyShutDown": true
+}

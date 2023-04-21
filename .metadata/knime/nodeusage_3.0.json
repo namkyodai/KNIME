@@ -1,6 +1,6 @@
 
 {
-    "version": "4.7.0.v202212010827",
+    "version": "4.7.1.v202301311353",
     "created": "2022-12-22 11:33",
     "nodestats": {
         "nodes": [
@@ -35,6 +35,46 @@
                 "exectime": 9,
                 "nrcreated": 1,
                 "successor": "n/a"
+            },
+            {
+                "id": "org.knime.filehandling.core.fs.knime.node.dataarea.WorkflowDataAreaConnectorNodeFactory#Workflow Data Area Connector",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 74,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.io.filehandling.table.reader.KnimeTableReaderNodeFactory#Table Reader",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 128,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.views.node.barchart.BarChartNodeFactory#Bar Chart (Labs)",
+                "nrexecs": 6,
+                "nrfails": 0,
+                "exectime": 332,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.io.tablecreator.TableCreator2NodeFactory#Table Creator",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 4,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.flowvariable.tablecoltovariable4.TableColumnToVariable4NodeFactory#Table Column to Variable",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 4,
+                "nrcreated": 0,
+                "successor": "n/a"
             }
         ],
         "metaNodes": {
@@ -42,16 +82,16 @@
         "wrappedNodes": {
         }
     },
-    "uptime": 41656837,
-    "workflowsOpened": 2,
-    "remoteWorkflowsOpened": 1,
+    "uptime": 33656,
+    "workflowsOpened": 7,
+    "remoteWorkflowsOpened": 4,
     "columnarStorageWorkflowsOpened": 0,
     "workflowsImported": 0,
     "workflowsExported": 0,
     "webUIPerspectiveSwitches": 0,
-    "launches": 1,
+    "launches": 5,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 41656837,
+    "timeSinceLastStart": 168284,
     "crashes": 0,
     "properlyShutDown": true
 }

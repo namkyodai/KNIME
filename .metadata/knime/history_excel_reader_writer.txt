@@ -1,5 +1,10 @@
-D:\ARCADIS\EastBay-Internal-Procurement-Documents - Documents\Package1-Intake\BIDDING\Bid Evaluation\Wil-ABDA-Eastbay-Intake-Evaluation-Form - Copy.xlsx
-D:\ARCADIS\EastBay-Internal-Procurement-Documents - Documents\Package1-Intake\BIDDING\Bid Evaluation\Wil-Eastbay-Intake-Evaluation-Form.xlsx
-D:\ARCADIS\EastBay-Internal-Procurement-Documents - Documents\Package1-Intake\BIDDING\Bid Evaluation\Wil-ABDA-Eastbay-Intake-Evaluation-Form.xlsx
-D:\Github\KNIME\EastBay-Project\Intake-Bid-Evaluation\data\Wil-ABDA-Eastbay-Intake-Evaluation-Form.xlsx
-D:\Github\KNIME\EastBay-Project\Intake-Bid-Evaluation\data
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\4-RM-Phuong.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\output\RM-tong-hop-option2.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\output\RM-tong-hop.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\2-RM-Trung.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\1-RM-Ha.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\nam.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\3-RM-Thinh.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\4-RM-Thinh.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\5-RM-Trung.xlsx
+E:\Git\Lectures\2023-NHA-TRANG-Data-Analytics-for-Managers\Du-Lieu\Bao-Hiem\raw\3-RM-Phuong.xlsx
